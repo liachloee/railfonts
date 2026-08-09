@@ -17,6 +17,9 @@ This font pack replicates the font of various displays on trains operated by the
 - **ÖBB regional-train doubledecker (DoSto) inside matrix displays** (slim)
 (work in progress; same as the normal DoSto font, but the slim variant, which is used for displaying longer text)
 
+- **ÖBB regional-train Bombardier Talent (class 4023/4024/4124) inside matrix displays**
+(work in progress)
+
 Some letters may have some pixel errors in real life, which will be replicated 1 to 1 with these fonts.
 
 This font pack is licensed under CC BY-NC-SA, which means you may not use this font commercially without my explicit permission, you may include a reference to this github repository, and modifications must stay under the same license.
