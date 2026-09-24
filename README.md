@@ -22,7 +22,7 @@ This font pack replicates the font of various displays on trains operated by the
 
 Some letters may have some pixel errors in real life, which will be replicated 1 to 1 with these fonts.
 
-This font pack is licensed under CC BY-NC-SA, which means you may not use this font commercially without my explicit permission, you may include a reference to this github repository, and modifications must stay under the same license.
+This font pack is licensed under CC BY-NC-SA, which means you may not use this font commercially without my explicit permission, you may include a reference to this github repository, and modifications must stay under the same license. For more details, see [CREDITS.md](./CREDITS.md)
 
 --------
 
