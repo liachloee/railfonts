@@ -1,7 +1,6 @@
 # railfonts
 
-This font pack replicates the font of various displays on trains operated by the Austrian Federal Railways (ÖBB).
-**[Click here to view credits](./CREDITS.md)**
+This font pack replicates the font of various displays on railway vehicles.
 
 ## List of fonts in the repository:
 
@@ -18,9 +17,6 @@ This font pack replicates the font of various displays on trains operated by the
 ### **ÖBB regional-train Bombardier Talent (class 4023/4024/4124) inside matrix displays**
 (work in progress)
 
-This font pack is licensed under CC BY-NC-SA, which means you may not use this font commercially without my explicit permission, you may include a reference to this github repository, and modifications must stay under the same license. For more details, see [CREDITS.md](./CREDITS.md)
-
 --------
 
-This font pack was made with [Fontstruct](https://fontstruct.com/)
-(The links to the so-called "Fontstructions" for each font are included in their respective READMEs)
+These fonts were made with [Fontstruct](https://fontstruct.com/)
